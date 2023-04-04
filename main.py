@@ -3,5 +3,5 @@ if __name__ == "__main__":
     print("hello python v1")
     print("hello python v2")
     print("hello python v3")
-    print("bug-fix modify..")
-    print("bug-fix more..")
+    print("master 我也修改了第6行..")
+    print("master 我也修改了第7行..")
